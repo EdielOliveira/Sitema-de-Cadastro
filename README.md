@@ -1,19 +1,44 @@
-<h1 align="center"> Sistema_de_Cadastro_de_Jogos </h1>
+<h2 align="center"> Sistema de Cadastro </h2>
 
+<div align="center">
+  
+![GitHub repo size](https://img.shields.io/github/repo-size/EdielOliveira/-1-Curso-Java-Back-End--?style=for-the-badge)
+<img src="http://img.shields.io/static/v1?label=LINGUAGEM&message=%20HTML&color=ED1C24&style=for-the-badge">
+<img src="http://img.shields.io/static/v1?label=PLATAFORMA&message=%20VISUALSTUDIO&color=753475&style=for-the-badge">
 
+</div>
+<div align="center">
+  
+![image](http://www.unow.com.br/emDesenvolvimento.gif)
 
->Status do Projeto:
-> :construction: Em Desenvolvimento :construction:
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge"/>
+  
+</div>
 
-# 📁 Acesso ao projeto
+<div align="center">
+  
+## 🚀 Abrindo o Codigo
 
-**Para rodar esse projeto é necessário ter windows 10 em sua maquina**
+Para abrir o Codigo, siga estas etapas:
 
-# 🛠️ Abrir e rodar o projeto
+Windows, Macs e Linux:
+```
+<Abra "Index.html">
+```
+```
+E Pronto :D
+```
 
-**E para abrir é necessário escrever node.js em sua maquina**
-# Descrição do Projeto
-Esse projeto foi feito a patir de um curso ou seja ele é meramente um projeto de estudo
-#
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<h1 style: align="center">🤝 Desenvolvedor</h1>
 
+<table style: align="center">
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/113260177?s=400&u=347f2b3ae130a0f7c84f0946b4278cd2581e8b16&v=4" width="150px;" alt="Foto do Mark Zuckerberg"/><br>
+        <sub>
+          <b>EdielOliveira</b>
+        </sub>
+      </a>
+    </td>   
+    </table>
+    
