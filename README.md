@@ -42,3 +42,5 @@ E Pronto :D
     </td>   
     </table>
     
+    # Esse projeto foi feito a patir de um curso, ou seja, ele é meramente um projeto de estudo #
+    
