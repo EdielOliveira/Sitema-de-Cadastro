@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![GitHub repo size](https://img.shields.io/github/repo-size/EdielOliveira/-1-Curso-Java-Back-End--?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/EdielOliveira/Sitema-de-Cadastro?style=for-the-badge)
 <img src="http://img.shields.io/static/v1?label=LINGUAGEM&message=%20HTML&color=ED1C24&style=for-the-badge">
 <img src="http://img.shields.io/static/v1?label=PLATAFORMA&message=%20VISUALSTUDIO&color=753475&style=for-the-badge">
 
